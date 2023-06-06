@@ -246,7 +246,7 @@ header ul li:hover a{
     position: relative;
     width: 100%;
     max-width: 1020px;
-    padding: 40px 20px;
+    padding: 30px 20px;
     margin: auto;
 }
 
@@ -867,6 +867,7 @@ body {
 	align-items: center;
 	justify-content: center;
     background: #04273A;
+    padding: 50px;
 }
 @keyframes scroll{
     0% {
@@ -881,6 +882,7 @@ body {
     background: #04273A;
     height: 140px;
     margin: auto;
+    padding: 100px;
     overflow:hidden;
     position: relative;
     border:1px solid ##04273A;
